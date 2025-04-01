@@ -10,6 +10,7 @@
   - [Built a Manage app using vanilla HTML,CSS and JavaScript](https://github.com/AgiriFeyisara/manage-landing-Page)
   
 <h2>Certifications</h2>
+<li>FreeCodeCamp certification</li>
 <li>HNG Internship certification</li>
 <li>lagup softskills certification</li>
 
