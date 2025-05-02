@@ -10,7 +10,7 @@ My long-term goal is to become a proficient softwasre engineer who can collabora
 <h2>👨‍💻 Frontend Development Projects:</h2>
 
 - <b>Countries API with REACT</b>
-  - [Praciting building countries API with react](https://github.com/AgiriFeyisara/Countries-API)
+  - [Practicing building countries API with react](https://github.com/AgiriFeyisara/Countries-API)
 - <b>Age Tracking App (React, NodeJS) </b>
   - [Age Tracking APP](https://github.com/AgiriFeyisara/Age-Tracker-App4)
 - <b>manage App (HTML,CSS and JavaScript)</b>
