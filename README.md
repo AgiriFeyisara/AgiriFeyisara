@@ -1,4 +1,12 @@
 <h1>Hi, I'm Feyisara!</h1>
+<p>I am a dedicated Frontend Engineering students at ALX Africa, with a deep interest in building user-friendly, accessable and scalable web applications.</p>
+<p> I am passionate about solving real-world problems through code-especially in areas such as education,creativity, social impact . etc. 
+My long-term goal is to become a proficient softwasre engineer who can collaborate on impactful projects and contribute to open-source communities.
+</p>
+'''html
+Languages: HTML | CSS |JavaScript
+Frameworks: React | Tailwind CSS |SASS 
+Tools: Git | GitHub |VS Code 
 
 <h2>👨‍💻 Frontend Development Projects:</h2>
 
