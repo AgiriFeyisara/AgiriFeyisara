@@ -3,8 +3,8 @@
 <p> I am passionate about solving real-world problems through code-especially in areas such as education,creativity, social impact . etc. 
 My long-term goal is to become a proficient softwasre engineer who can collaborate on impactful projects and contribute to open-source communities.
 </p>
-<p>Languages: HTML | CSS |JavaScript</p>
-<p>Frameworks: React | Tailwind CSS |SASS </p>
+<p>Languages: HTML | CSS |JavaScript | TypeScript</p>
+<p>Frameworks: React |NextJS | Tailwind CSS |SASS </p>
 <p>Tools: Git | GitHub |VS Code </p>
 
 <h2>👨‍💻 Frontend Development Projects:</h2>
